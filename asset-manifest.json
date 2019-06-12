@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/dpofigj/index.html/static/css/main.e935cc63.chunk.css",
-    "main.js": "/dpofigj/index.html/static/js/main.3152be56.chunk.js",
-    "main.js.map": "/dpofigj/index.html/static/js/main.3152be56.chunk.js.map",
-    "runtime~main.js": "/dpofigj/index.html/static/js/runtime~main.e556c1ed.js",
-    "runtime~main.js.map": "/dpofigj/index.html/static/js/runtime~main.e556c1ed.js.map",
-    "static/js/2.f0910273.chunk.js": "/dpofigj/index.html/static/js/2.f0910273.chunk.js",
-    "static/js/2.f0910273.chunk.js.map": "/dpofigj/index.html/static/js/2.f0910273.chunk.js.map",
-    "index.html": "/dpofigj/index.html/index.html",
-    "precache-manifest.579afc02a63cf25697dbb38dc841f8e6.js": "/dpofigj/index.html/precache-manifest.579afc02a63cf25697dbb38dc841f8e6.js",
-    "service-worker.js": "/dpofigj/index.html/service-worker.js",
-    "static/css/main.e935cc63.chunk.css.map": "/dpofigj/index.html/static/css/main.e935cc63.chunk.css.map"
+    "main.css": "/dpofigj/static/css/main.e935cc63.chunk.css",
+    "main.js": "/dpofigj/static/js/main.3152be56.chunk.js",
+    "main.js.map": "/dpofigj/static/js/main.3152be56.chunk.js.map",
+    "runtime~main.js": "/dpofigj/static/js/runtime~main.cfac576b.js",
+    "runtime~main.js.map": "/dpofigj/static/js/runtime~main.cfac576b.js.map",
+    "static/js/2.f0910273.chunk.js": "/dpofigj/static/js/2.f0910273.chunk.js",
+    "static/js/2.f0910273.chunk.js.map": "/dpofigj/static/js/2.f0910273.chunk.js.map",
+    "index.html": "/dpofigj/index.html",
+    "precache-manifest.e15e4f1b048b71617b396874d2e7e98e.js": "/dpofigj/precache-manifest.e15e4f1b048b71617b396874d2e7e98e.js",
+    "service-worker.js": "/dpofigj/service-worker.js",
+    "static/css/main.e935cc63.chunk.css.map": "/dpofigj/static/css/main.e935cc63.chunk.css.map"
   }
 }
